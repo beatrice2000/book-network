@@ -1,0 +1,136 @@
+[INFO] Scanning for projects...
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/build-helper-maven-plugin/3.6.0/build-helper-maven-plugin-3.6.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/build-helper-maven-plugin/3.6.0/build-helper-maven-plugin-3.6.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:3.6.0: Plugin org.codehaus.mojo:build-helper-maven-plugin:3.6.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.codehaus.mojo:build-helper-maven-plugin:pom:3.6.0 (absent): Could not transfer artifact org.codehaus.mojo:build-helper-maven-plugin:pom:3.6.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/cyclonedx/cyclonedx-maven-plugin/2.9.0/cyclonedx-maven-plugin-2.9.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/cyclonedx/cyclonedx-maven-plugin/2.9.0/cyclonedx-maven-plugin-2.9.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.cyclonedx:cyclonedx-maven-plugin:2.9.0: Plugin org.cyclonedx:cyclonedx-maven-plugin:2.9.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.cyclonedx:cyclonedx-maven-plugin:pom:2.9.0 (absent): Could not transfer artifact org.cyclonedx:cyclonedx-maven-plugin:pom:2.9.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/flywaydb/flyway-maven-plugin/10.20.1/flyway-maven-plugin-10.20.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/flywaydb/flyway-maven-plugin/10.20.1/flyway-maven-plugin-10.20.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.flywaydb:flyway-maven-plugin:10.20.1: Plugin org.flywaydb:flyway-maven-plugin:10.20.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.flywaydb:flyway-maven-plugin:pom:10.20.1 (absent): Could not transfer artifact org.flywaydb:flyway-maven-plugin:pom:10.20.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/io/github/git-commit-id/git-commit-id-maven-plugin/9.0.1/git-commit-id-maven-plugin-9.0.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/io/github/git-commit-id/git-commit-id-maven-plugin/9.0.1/git-commit-id-maven-plugin-9.0.1.pom
+[WARNING] Failed to retrieve plugin descriptor for io.github.git-commit-id:git-commit-id-maven-plugin:9.0.1: Plugin io.github.git-commit-id:git-commit-id-maven-plugin:9.0.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: io.github.git-commit-id:git-commit-id-maven-plugin:pom:9.0.1 (absent): Could not transfer artifact io.github.git-commit-id:git-commit-id-maven-plugin:pom:9.0.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/jooq/jooq-codegen-maven/3.19.15/jooq-codegen-maven-3.19.15.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/jooq/jooq-codegen-maven/3.19.15/jooq-codegen-maven-3.19.15.pom
+[WARNING] Failed to retrieve plugin descriptor for org.jooq:jooq-codegen-maven:3.19.15: Plugin org.jooq:jooq-codegen-maven:3.19.15 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.jooq:jooq-codegen-maven:pom:3.19.15 (absent): Could not transfer artifact org.jooq:jooq-codegen-maven:pom:3.19.15 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/jetbrains/kotlin/kotlin-maven-plugin/1.9.25/kotlin-maven-plugin-1.9.25.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/jetbrains/kotlin/kotlin-maven-plugin/1.9.25/kotlin-maven-plugin-1.9.25.pom
+[WARNING] Failed to retrieve plugin descriptor for org.jetbrains.kotlin:kotlin-maven-plugin:1.9.25: Plugin org.jetbrains.kotlin:kotlin-maven-plugin:1.9.25 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.jetbrains.kotlin:kotlin-maven-plugin:pom:1.9.25 (absent): Could not transfer artifact org.jetbrains.kotlin:kotlin-maven-plugin:pom:1.9.25 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/liquibase/liquibase-maven-plugin/4.29.2/liquibase-maven-plugin-4.29.2.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/liquibase/liquibase-maven-plugin/4.29.2/liquibase-maven-plugin-4.29.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.liquibase:liquibase-maven-plugin:4.29.2: Plugin org.liquibase:liquibase-maven-plugin:4.29.2 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.liquibase:liquibase-maven-plugin:pom:4.29.2 (absent): Could not transfer artifact org.liquibase:liquibase-maven-plugin:pom:4.29.2 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-antrun-plugin/3.1.0/maven-antrun-plugin-3.1.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-antrun-plugin/3.1.0/maven-antrun-plugin-3.1.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-antrun-plugin:3.1.0: Plugin org.apache.maven.plugins:maven-antrun-plugin:3.1.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-antrun-plugin:pom:3.1.0 (absent): Could not transfer artifact org.apache.maven.plugins:maven-antrun-plugin:pom:3.1.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-assembly-plugin/3.7.1/maven-assembly-plugin-3.7.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-assembly-plugin/3.7.1/maven-assembly-plugin-3.7.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-assembly-plugin:3.7.1: Plugin org.apache.maven.plugins:maven-assembly-plugin:3.7.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-assembly-plugin:pom:3.7.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-assembly-plugin:pom:3.7.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-dependency-plugin/3.8.1/maven-dependency-plugin-3.8.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-dependency-plugin/3.8.1/maven-dependency-plugin-3.8.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-dependency-plugin:3.8.1: Plugin org.apache.maven.plugins:maven-dependency-plugin:3.8.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-dependency-plugin:pom:3.8.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-dependency-plugin:pom:3.8.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-release-plugin/3.0.1/maven-release-plugin-3.0.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-release-plugin/3.0.1/maven-release-plugin-3.0.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-release-plugin:3.0.1: Plugin org.apache.maven.plugins:maven-release-plugin:3.0.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-release-plugin:pom:3.0.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-release-plugin:pom:3.0.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-enforcer-plugin/3.5.0/maven-enforcer-plugin-3.5.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-enforcer-plugin/3.5.0/maven-enforcer-plugin-3.5.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-enforcer-plugin:3.5.0: Plugin org.apache.maven.plugins:maven-enforcer-plugin:3.5.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-enforcer-plugin:pom:3.5.0 (absent): Could not transfer artifact org.apache.maven.plugins:maven-enforcer-plugin:pom:3.5.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-failsafe-plugin/3.5.2/maven-failsafe-plugin-3.5.2.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-failsafe-plugin/3.5.2/maven-failsafe-plugin-3.5.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-failsafe-plugin:3.5.2: Plugin org.apache.maven.plugins:maven-failsafe-plugin:3.5.2 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-failsafe-plugin:pom:3.5.2 (absent): Could not transfer artifact org.apache.maven.plugins:maven-failsafe-plugin:pom:3.5.2 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-help-plugin/3.5.1/maven-help-plugin-3.5.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-help-plugin/3.5.1/maven-help-plugin-3.5.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:3.5.1: Plugin org.apache.maven.plugins:maven-help-plugin:3.5.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-help-plugin:pom:3.5.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-help-plugin:pom:3.5.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-invoker-plugin/3.8.1/maven-invoker-plugin-3.8.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-invoker-plugin/3.8.1/maven-invoker-plugin-3.8.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-invoker-plugin:3.8.1: Plugin org.apache.maven.plugins:maven-invoker-plugin:3.8.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-invoker-plugin:pom:3.8.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-invoker-plugin:pom:3.8.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-javadoc-plugin/3.10.1/maven-javadoc-plugin-3.10.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-javadoc-plugin/3.10.1/maven-javadoc-plugin-3.10.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-javadoc-plugin:3.10.1: Plugin org.apache.maven.plugins:maven-javadoc-plugin:3.10.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-javadoc-plugin:pom:3.10.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-javadoc-plugin:pom:3.10.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-shade-plugin/3.6.0/maven-shade-plugin-3.6.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-shade-plugin/3.6.0/maven-shade-plugin-3.6.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-shade-plugin:3.6.0: Plugin org.apache.maven.plugins:maven-shade-plugin:3.6.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-shade-plugin:pom:3.6.0 (absent): Could not transfer artifact org.apache.maven.plugins:maven-shade-plugin:pom:3.6.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-source-plugin/3.3.1/maven-source-plugin-3.3.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-source-plugin/3.3.1/maven-source-plugin-3.3.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-source-plugin:3.3.1: Plugin org.apache.maven.plugins:maven-source-plugin:3.3.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-source-plugin:pom:3.3.1 (absent): Could not transfer artifact org.apache.maven.plugins:maven-source-plugin:pom:3.3.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-war-plugin/3.4.0/maven-war-plugin-3.4.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-war-plugin/3.4.0/maven-war-plugin-3.4.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-war-plugin:3.4.0: Plugin org.apache.maven.plugins:maven-war-plugin:3.4.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.apache.maven.plugins:maven-war-plugin:pom:3.4.0 (absent): Could not transfer artifact org.apache.maven.plugins:maven-war-plugin:pom:3.4.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/graalvm/buildtools/native-maven-plugin/0.10.3/native-maven-plugin-0.10.3.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/graalvm/buildtools/native-maven-plugin/0.10.3/native-maven-plugin-0.10.3.pom
+[WARNING] Failed to retrieve plugin descriptor for org.graalvm.buildtools:native-maven-plugin:0.10.3: Plugin org.graalvm.buildtools:native-maven-plugin:0.10.3 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.graalvm.buildtools:native-maven-plugin:pom:0.10.3 (absent): Could not transfer artifact org.graalvm.buildtools:native-maven-plugin:pom:0.10.3 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/versions-maven-plugin/2.17.1/versions-maven-plugin-2.17.1.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/versions-maven-plugin/2.17.1/versions-maven-plugin-2.17.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:versions-maven-plugin:2.17.1: Plugin org.codehaus.mojo:versions-maven-plugin:2.17.1 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.codehaus.mojo:versions-maven-plugin:pom:2.17.1 (absent): Could not transfer artifact org.codehaus.mojo:versions-maven-plugin:pom:2.17.1 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/xml-maven-plugin/1.1.0/xml-maven-plugin-1.1.0.pom
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/xml-maven-plugin/1.1.0/xml-maven-plugin-1.1.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.1.0 or one of its dependencies could not be resolved:
+	The following artifacts could not be resolved: org.codehaus.mojo:xml-maven-plugin:pom:1.1.0 (absent): Could not transfer artifact org.codehaus.mojo:xml-maven-plugin:pom:1.1.0 from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-metadata.xml
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/apache/maven/plugins/maven-metadata.xml
+Downloading from snapshots: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/maven-metadata.xml
+Downloading from central: https://artifactory.intranet.db.com/artifactory/mvn-plugins-release/org/codehaus/mojo/maven-metadata.xml
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to snapshots (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to snapshots (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] org.apache.maven.plugins/maven-metadata.xml failed to transfer from https://artifactory.intranet.db.com/artifactory/mvn-plugins-release during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] org.apache.maven.plugins/maven-metadata.xml failed to transfer from https://artifactory.intranet.db.com/artifactory/mvn-plugins-release during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to snapshots (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] org.codehaus.mojo/maven-metadata.xml failed to transfer from https://artifactory.intranet.db.com/artifactory/mvn-plugins-release during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[WARNING] org.codehaus.mojo/maven-metadata.xml failed to transfer from https://artifactory.intranet.db.com/artifactory/mvn-plugins-release during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to snapshots (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.348 s
+[INFO] Finished at: 2025-01-09T18:50:56+02:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] No plugin found for prefix 'dependency' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (/Users/blidbea/.m2/repository), central (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release), snapshots (https://artifactory.intranet.db.com/artifactory/mvn-plugins-release)] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoPluginFoundForPrefixException
